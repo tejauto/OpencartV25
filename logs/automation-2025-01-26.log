@@ -1,0 +1,49 @@
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\AppData\Local\Temp\testng-eclipse-803862752\testng-customsuite.xml
+
+2025-01-26 18:58:29 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-01-26 18:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@231baf51: 135 ms
+2025-01-26 18:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@12db3386: 31 ms
+2025-01-26 18:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@57fae983: 47 ms
+2025-01-26 18:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@61a91912: 19 ms
+2025-01-26 18:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2787de58: 9 ms
+2025-01-26 18:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@659a2455: 0 ms
+2025-01-26 18:58:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-01-26 18:59:00 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-01-26 18:59:04 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-01-26 18:59:04 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-01-26 18:59:11 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-01-26 18:59:11 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-01-26 18:59:18 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-01-26 18:59:18 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-01-26 18:59:21 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-01-26 19:14:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+

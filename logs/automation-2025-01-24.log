@@ -1,0 +1,61 @@
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\AppData\Local\Temp\testng-eclipse-1656677304\testng-customsuite.xml
+
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4212a0c8: 175 ms
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@45e37a7e: 53 ms
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@36f48b4: 18 ms
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@607fbe09: 32 ms
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6eeade6c: 19 ms
+2025-01-23 21:13:55 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4a891c97: 0 ms
+2025-01-23 21:19:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-01-23 21:19:36 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-23 21:19:38 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-23 21:20:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\crossbrowser.xml
+
+2025-01-23 21:20:42 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-23 21:20:43 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-23 21:20:47 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistration - test failed
+2025-01-23 21:20:48 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-23 21:30:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-01-23 21:31:17 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-23 21:31:18 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:34:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-01-24 10:35:13 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:35:13 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:37:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-01-24 10:37:25 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:37:26 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:38:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\crossbrowser.xml
+
+2025-01-24 10:38:26 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:38:26 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:38:43 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:38:43 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:39:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\crossbrowser.xml
+
+2025-01-24 10:39:30 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:39:33 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:39:33 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:39:35 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistration - test failed
+2025-01-24 10:40:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\crossbrowser.xml
+
+2025-01-24 10:40:31 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:40:34 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-01-24 10:40:35 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-01-24 10:40:36 [TestNG-tests-1] ERROR testCases.TC01_AccountRegistration - test failed
+2025-01-24 12:32:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\crossbrowser.xml
+
