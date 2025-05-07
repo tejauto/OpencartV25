@@ -1,1 +1,9 @@
-2025-02-01 18:22:42 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-05-07 16:21:20 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-05-07 16:21:23 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-05-07 16:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\grouping.xml
+
+2025-05-07 16:23:59 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-05-07 16:24:03 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-05-07 16:28:57 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-05-07 16:28:59 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
