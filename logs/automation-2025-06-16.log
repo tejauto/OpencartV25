@@ -1,0 +1,67 @@
+2025-05-07 16:21:20 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-05-07 16:21:23 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-05-07 16:23:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\grouping.xml
+
+2025-05-07 16:23:59 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-05-07 16:24:03 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-05-07 16:28:57 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-05-07 16:28:59 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-05-18 15:54:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-05-18 15:54:18 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-05-18 15:54:19 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-06-01 06:38:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-06-01 06:39:24 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-01 06:39:28 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-01 06:39:29 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-01 06:39:43 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-01 06:39:56 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-01 06:40:00 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-03 07:24:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-06-03 07:25:01 [main] INFO  testCases.TC01_AccountRegistration -  ********** starting the application   ?***
+2025-06-03 07:25:02 [main] INFO  testCases.TC01_AccountRegistration - click on my account link
+2025-06-03 07:32:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-06-03 07:32:19 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-03 07:32:25 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-03 07:32:25 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-03 07:32:38 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-03 07:32:52 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-03 07:32:56 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-03 07:36:50 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\grouping.xml
+
+2025-06-03 07:37:02 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-06-03 07:37:05 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-06-03 07:40:05 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:23:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-06-15 15:24:09 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:24:14 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-15 15:24:15 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:24:28 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:24:41 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:24:45 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-15 15:31:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\grouping.xml
+
+2025-06-15 15:31:14 [main] INFO  testCases.TC02_LoginTest - ****** started logintest tc002
+2025-06-15 15:31:17 [main] INFO  testCases.TC02_LoginTest - ****** finished logintest tc002
+2025-06-15 15:35:05 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:35:09 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-15 15:35:09 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:35:21 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:35:34 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
+2025-06-15 15:35:38 [main] INFO  testCases.TC03_LoginDDT - *****finished tc_003_loginDDt
+2025-06-16 16:15:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Chalana\eclipse-workspace\OpencartV25\master.xml
+
+2025-06-16 16:16:50 [main] INFO  testCases.TC03_LoginDDT - *****Starting tc_003_loginDDt***
